@@ -4,7 +4,7 @@
 
 # Valkyrie
 
-Valkyrie (.js) implements validated typing for JavaScript. A validated type is an *immutable* type for which every instance satisfies a particular predicate.
+Valkyrie (.js) implements validated typing for JavaScript. A validated type is an immutable type that *shall not be instantiated* unless certain criteria are met.
 
 ## Installation
 
